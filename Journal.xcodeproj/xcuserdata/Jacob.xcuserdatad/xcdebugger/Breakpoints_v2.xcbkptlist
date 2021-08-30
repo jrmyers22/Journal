@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "61AD60F3-1724-4045-95F6-2650F451DA73"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F00D1BED-1894-43C7-9B1F-289CF820D4D2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Journal/Views/DayView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "DayView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "F00D1BED-1894-43C7-9B1F-289CF820D4D2 - 5f98b9620e390f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of Journal.DayView.(negativeItems in _C9C918E76F7CC29FA9ED5BFDA8E5B0C7) : Swift.Int"
+                  moduleName = "Journal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/JK2Designs/Desktop/D/Apps%20Scripts%20&amp;%20Code/Projects/Journal/Journal/Views/DayView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "F00D1BED-1894-43C7-9B1F-289CF820D4D2 - 3349567735fef343"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Journal.DayView.init() -&gt; Journal.DayView"
+                  moduleName = "Journal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/JK2Designs/Desktop/D/Apps%20Scripts%20&amp;%20Code/Projects/Journal/Journal/Views/DayView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "127">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "42A71C0E-178E-4257-97D1-D6C335008A8D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Journal/Views/DayView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "DayView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "42A71C0E-178E-4257-97D1-D6C335008A8D - dd0e32611a939eb1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of Journal.DayView.(positiveItems in _C9C918E76F7CC29FA9ED5BFDA8E5B0C7) : Swift.Int"
+                  moduleName = "Journal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/JK2Designs/Desktop/D/Apps%20Scripts%20&amp;%20Code/Projects/Journal/Journal/Views/DayView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "42A71C0E-178E-4257-97D1-D6C335008A8D - 3349567735fef360"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Journal.DayView.init() -&gt; Journal.DayView"
+                  moduleName = "Journal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/JK2Designs/Desktop/D/Apps%20Scripts%20&amp;%20Code/Projects/Journal/Journal/Views/DayView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "81">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
